@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-application-using-react/static/css/main.2c0126ee.css",
+    "main.js": "/portfolio-application-using-react/static/js/main.fa8f0109.js",
+    "static/js/453.6bada850.chunk.js": "/portfolio-application-using-react/static/js/453.6bada850.chunk.js",
+    "static/media/profile.jpg": "/portfolio-application-using-react/static/media/profile.01418214281c985a42bb.jpg",
+    "static/media/about.jpg": "/portfolio-application-using-react/static/media/about.25037666cca34f8f569a.jpg",
+    "static/media/work2.png": "/portfolio-application-using-react/static/media/work2.7f1c5569058ac9d94f50.png",
+    "static/media/work4.png": "/portfolio-application-using-react/static/media/work4.5e3415865602e5779976.png",
+    "static/media/work5.png": "/portfolio-application-using-react/static/media/work5.4a8e956146c3b2f25505.png",
+    "static/media/Bharath_Raj_Naralasetti.pdf": "/portfolio-application-using-react/static/media/Bharath_Raj_Naralasetti.79c0c8adddab832e9634.pdf",
+    "static/media/work3.jpg": "/portfolio-application-using-react/static/media/work3.b7aaa08a46f8bfc1d34e.jpg",
+    "static/media/work6.png": "/portfolio-application-using-react/static/media/work6.f3a2e93d444dc9705f36.png",
+    "index.html": "/portfolio-application-using-react/index.html",
+    "main.2c0126ee.css.map": "/portfolio-application-using-react/static/css/main.2c0126ee.css.map",
+    "main.fa8f0109.js.map": "/portfolio-application-using-react/static/js/main.fa8f0109.js.map",
+    "453.6bada850.chunk.js.map": "/portfolio-application-using-react/static/js/453.6bada850.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c0126ee.css",
+    "static/js/main.fa8f0109.js"
+  ]
+}
